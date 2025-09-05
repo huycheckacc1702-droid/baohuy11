@@ -1,1 +1,6 @@
-BOT_TOKEN = "6367532329:AAFKSk9_HjtIOTJGxEZGbeqe0FNvyDADkUk"
+{
+  "BOT_TOKEN": "6367532329:AAFKSk9_HjtIOTJGxEZGbeqe0FNvyDADkUk",
+  "ADMINS": [5736655322],
+  "DATA_FILE": "data.json",
+  "ADMINS_FILE": "admins.json"
+}
